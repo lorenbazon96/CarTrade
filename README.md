@@ -22,5 +22,5 @@ Omogućeno je dodavanje, pregledavanje, izmjenjivanje te brisanje automobila, so
 - Preuzeti sve datoteke s Githuba i spremiti ih u mapu
 - Putem naredbenog retka pozicionirati se u mapu iz prethodnog koraka
 - Pomoću naredbe: _docker build -t cartrade ._ izraditi docker image
-- Pomoću naredbe: _docker run -p 5000:8080 cartrade_ pokrenuti konteiner pomoću stvorenog image-a
+- Pomoću naredbe: _docker run -p 5000:5000 cartrade_ pokrenuti konteiner pomoću stvorenog image-a
 - Otvoriti preglednik: _localhost:5000_
